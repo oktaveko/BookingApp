@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/alexedwards/scs/v2"
-	"github.com/oktaveko/bookingapp/pkg/config"
-	"github.com/oktaveko/bookingapp/pkg/handlers"
-	"github.com/oktaveko/bookingapp/pkg/render"
+	"github.com/oktaveko/bookingapp/internal/config"
+	"github.com/oktaveko/bookingapp/internal/handlers"
+	"github.com/oktaveko/bookingapp/internal/render"
 	"log"
 	"net/http"
 	"time"
